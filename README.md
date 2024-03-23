@@ -10,8 +10,9 @@
    
    *Output:*
 
-   <img src="https://github.com/ccemerdem/Python-Exercises/assets/112133474/3450b9a7-c75d-49b5-b1b2-1e1793e93850" width= 150px> 
-  
+     <picture>
+      <img src="https://github.com/ccemerdem/Python-Exercises/assets/112133474/3450b9a7-c75d-49b5-b1b2-1e1793e93850" width= 150px> 
+     </picture>
    
    
    *Reference:* <a href="https://youtu.be/qlWjzNdilBs?t=761"> Junior Dev Interview 12:40 - Coding Question </a>
